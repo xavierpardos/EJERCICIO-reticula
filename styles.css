@@ -1,0 +1,15 @@
+
+.image {
+  background-image: url("https://failedarchitecture.com/wp-content/uploads/2018/04/Figure-2-1-e1524568506800.jpg");
+  height: 40%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+body, html{
+  height: 100%;
+  margin
+}
+body{
+  font-family: Montserrat;
+}
